@@ -9,8 +9,8 @@ A  self-motivated person who always eager to learn. High interest in data scienc
  
 <p align="left">
 <a href="https://www.linkedin.com/in/eka-agustina-1864b7165/">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ekaea&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ekaea&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=agustinaeka&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=agustinaeka&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
   
