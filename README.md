@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Eka
-A  self-motivated person who always eager to learn. High interest in data engineering, data science, mechine learning and related field. 
+A  self-motivated person who always eager to learn. Love learn new tech everyday. 
 
 ### Let's connect to find out more
 <p>
